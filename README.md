@@ -20,4 +20,4 @@ The orifinal data came form kaggle
 > If we can reach 95% accuracy at predicting heart disease, we'll pursue the project.
 
 ## **Features**
-This is where you get info of each feature in  `data`
+> This is where you get info of each feature in  `data`
